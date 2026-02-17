@@ -1,8 +1,7 @@
-Question to ask installer
-
 **Solar Panel Selection**
 
 **Technology Type**
+
 **a. Mono PERC (Passivated Emitter and Rear Cell)**
 - Efficiency: ~20% to 22%
 
@@ -13,6 +12,7 @@ Mono PERC efficiency drops slightly more than TOPCon when the temperature hits 4
 Most top brands like Adani, Tata, and Waaree have now shifted their premium lines to TOPCon
 
 **a. Panel Type**
+
 _Monocrystalline:_
 Efficiency: Higher efficiency (18-24%) means more power from a smaller area.
 Cost: Generally more expensive.
@@ -42,6 +42,7 @@ _Hybrid Inverters:_ Combine solar and battery storage management.
 _Formula:_ Required Panel Capacity (in Watts) = (Daily kWh Consumption / Peak Sun Hours) * 1000
 
 **D. Efficiency & Degradation**
+
 Look for panels with an efficiency of at least 21% and a low annual degradation rate (usually around 0.5%) to ensure they last 25 years.
 
 
