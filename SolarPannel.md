@@ -11,7 +11,7 @@
 Mono PERC efficiency drops slightly more than TOPCon when the temperature hits 45°C in the summer.
 Most top brands like Adani, Tata, and Waaree have now shifted their premium lines to TOPCon
 
-**a. Panel Type**
+**Panel Type**
 
 _Monocrystalline:_
 Efficiency: Higher efficiency (18-24%) means more power from a smaller area.
@@ -31,17 +31,17 @@ Cost: Generally the cheapest.
 Flexibility: Can be ideal for curved surfaces or less conventional installations.
 Space: Requires more space for the same power output.
 
-**b. Inverter Type:**
+**Inverter Type:**
 
 _String Inverters:_ Most common, connecting a series of panels. Cost-effective for simple installations.
 _Microinverters:_ Installed on each panel, maximizing individual panel output. Better for shaded areas, but more expensive.
 _Hybrid Inverters:_ Combine solar and battery storage management.
 
-**C. Panel Capacity (Wattage):**
+**Panel Capacity (Wattage):**
 
 _Formula:_ Required Panel Capacity (in Watts) = (Daily kWh Consumption / Peak Sun Hours) * 1000
 
-**D. Efficiency & Degradation**
+**Efficiency & Degradation**
 
 Look for panels with an efficiency of at least 21% and a low annual degradation rate (usually around 0.5%) to ensure they last 25 years.
 
