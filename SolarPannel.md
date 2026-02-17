@@ -52,10 +52,9 @@ _Subsidies:_ The central and state governments often offer subsidies for residen
 _Permissions:_ You may need permits from the local municipal corporation or electricity board (e.g., Madhyanchal Vidyut Vitran Nigam Ltd and Dakshinanchal Vidyut Vitran Nigam Ltd in UP) before installation.
 
 
-*********************************************************************************************************************************************************************************
-| For a 5kW system, the price difference for TOPCon is usually small (around ₹10,000–₹15,000 total), but the extra electricity it generates over 25 years—especially during     *
-| UP's long summers—will pay for that difference many times over.                                                                                                               *
-|                                                                                                                                                                               *
-| **Important Note**: If you are applying for the PM Surya Ghar subsidy, make sure to ask your vendor for "DCR TOPCon" panels. In 2026, most top brands like Adani, Tata, and   *
-| Waaree are producing these locally.                                                                                                                                           *
-|*********************************************************************************************************************************************************************************
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+For a 5kW system, the price difference for TOPCon is usually small (around ₹10,000–₹15,000 total), but the extra electricity it generates over 25 years—especially during     
+UP's long summers—will pay for that difference many times over.                                                                                                               
+                                                                                                                                                                               
+**Important Note**: If you are applying for the PM Surya Ghar subsidy, make sure to ask your vendor for "DCR TOPCon" panels. In 2026, most top brands like Adani, Tata, and Waaree are producing these locally.                              
+
