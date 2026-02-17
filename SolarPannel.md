@@ -34,7 +34,9 @@ Space: Requires more space for the same power output.
 **Inverter Type:**
 
 _String Inverters:_ Most common, connecting a series of panels. Cost-effective for simple installations.
+
 _Microinverters:_ Installed on each panel, maximizing individual panel output. Better for shaded areas, but more expensive.
+
 _Hybrid Inverters:_ Combine solar and battery storage management.
 
 **Panel Capacity (Wattage):**
