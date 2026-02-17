@@ -49,7 +49,9 @@ Look for panels with an efficiency of at least 21% and a low annual degradation 
 **Local Regulations and Incentives**
 
 _Net Metering Policy:_ Check if Uttar Pradesh has a net metering policy, which allows you to send excess electricity back to the grid and receive credits on your bill. This is essential for maximizing savings.
+
 _Subsidies:_ The central and state governments often offer subsidies for residential solar installations. Enquire about current schemes and eligibility criteria in Sultanpur.
+
 _Permissions:_ You may need permits from the local municipal corporation or electricity board (e.g., Madhyanchal Vidyut Vitran Nigam Ltd and Dakshinanchal Vidyut Vitran Nigam Ltd in UP) before installation.
 
 
